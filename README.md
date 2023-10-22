@@ -2,7 +2,8 @@
 Entregas individuais | Sprint 2 -> jar conectando ao banco de dados
 
 # Como Aplicar o Looca API?
- 1° O looca disponibiliza os recursos do computador como se fossem "classes" centro de cada objeto
+
+ 1° O looca disponibiliza os recursos do computador como se fossem "classes" centro de cada objeto \n
  2° Para acessar os dados mais especificos do looca, primeiro deve-se criar as instancias desses objeto
             `Processador processador = looca.getProcessador;`
   com isso, estamos dizendo para o programa que o objeto processador está recendo os atributos vindos do getProcessador.
