@@ -8,10 +8,9 @@ Entregas individuais | Sprint 2 -> jar conectando ao banco de dados
   com isso, estamos dizendo para o programa que o objeto processador está recendo os atributos vindos do getProcessador.
 ## 3° Agora precisamos dizer para o programa, qual atributo queremos dentro do recurso processador.
            ` processador.getFabricante();`
-        **Atenção!!** É preciso importar o recurso antes de utilizá-lo. Aoerte o tab após escrever o objeto ou
-         aperte a lampada vermelha e realize a importação.
+ **Atenção!!** É preciso importar o recurso antes de utilizá-lo. Aoerte o tab após escrever o objeto ou aperte a lampada vermelha e realize a importação.
 
 ### O que tem em um computador?
-    O que convém que seja monitorado?
-    Responder essas perguntas ajuda muito a agilizar na construção de seu projeto!
-    Vamos criar uma classe que tenha alguns recuros que queremos manipular.
+O que convém que seja monitorado?
+Responder essas perguntas ajuda muito a agilizar na construção de seu projeto!
+Vamos criar uma classe que tenha alguns recuros que queremos manipular.
