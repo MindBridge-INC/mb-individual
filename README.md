@@ -23,6 +23,7 @@ Entregas individuais | Sprint 2 -> jar conectando ao banco de dados
 O que convém que seja monitorado?
 Responder essas perguntas ajuda muito a agilizar na construção de seu projeto!
 Vamos criar uma classe que tenha alguns recuros que queremos manipular.
+
 ` public class Computador{
      private String sistemaOperacional;
      private Integer qtdMemoria;
